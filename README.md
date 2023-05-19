@@ -27,7 +27,3 @@ Built with :
 jQuery - A JavaScript library used for DOM manipulation and event handling.
 HTML - The markup language used to structure the page content.
 CSS - The stylesheet language used to style the page content.
-
-
-License :
-This project is licensed under the Moslihbadr License .
